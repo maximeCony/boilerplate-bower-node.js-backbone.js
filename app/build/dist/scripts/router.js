@@ -1,1 +1,0 @@
-define(["jquery","underscore","backbone"],function(e,t,n){var r=n.Router.extend({routes:{"":"index"},start:function(){n.history.start()},initialize:function(){this.appContainer=e("#app")},index:function(){console.log("index!")}}),i=function(){appRouter=new r,appRouter.start()};return{initialize:i}});
