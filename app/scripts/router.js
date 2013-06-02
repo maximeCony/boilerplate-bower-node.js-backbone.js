@@ -21,7 +21,7 @@ define([
     },
 
     index: function(){
-
+      console.log('index!');
     }
 });
 
