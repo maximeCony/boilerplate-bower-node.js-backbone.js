@@ -5,5 +5,4 @@
 	mainConfigFile: "../scripts/main.js",
 	name: "main",
 	optimizeCss: "standard"
-
 })
